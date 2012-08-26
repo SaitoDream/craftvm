@@ -1,4 +1,4 @@
-package com.cyslab.craft.mongo.test.impl;
+package com.cyslab.craftvm.mongo.test.impl;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -11,19 +11,19 @@ import org.apache.commons.collections.MultiMap;
 import org.junit.Before;
 import org.junit.Test;
 
-import com.cyslab.craft.mongo.MongoCollectionOperations;
-import com.cyslab.craft.mongo.MongoDatabaseOperations;
-import com.cyslab.craft.mongo.MongoDocumentOperations;
-import com.cyslab.craft.mongo.data.generator.SampleDataGenerator;
-import com.cyslab.craft.mongo.helper.MongoConfigHelper;
-import com.cyslab.craft.mongo.impl.MongoCollectionOperationsImpl;
-import com.cyslab.craft.mongo.impl.MongoDatabaseOperationsImpl;
-import com.cyslab.craft.mongo.impl.MongoDocumentOperationsImpl;
 import com.cyslab.craftvm.Craft;
 import com.cyslab.craftvm.CraftProjectCache;
 import com.cyslab.craftvm.metadata.Entity;
 import com.cyslab.craftvm.metadata.Field;
 import com.cyslab.craftvm.metadata.Project;
+import com.cyslab.craftvm.mongo.MongoCollectionOperations;
+import com.cyslab.craftvm.mongo.MongoDatabaseOperations;
+import com.cyslab.craftvm.mongo.MongoDocumentOperations;
+import com.cyslab.craftvm.mongo.data.generator.SampleDataGenerator;
+import com.cyslab.craftvm.mongo.helper.MongoConfigHelper;
+import com.cyslab.craftvm.mongo.impl.MongoCollectionOperationsImpl;
+import com.cyslab.craftvm.mongo.impl.MongoDatabaseOperationsImpl;
+import com.cyslab.craftvm.mongo.impl.MongoDocumentOperationsImpl;
 import com.mongodb.BasicDBObject;
 import com.mongodb.DB;
 import com.mongodb.DBCollection;

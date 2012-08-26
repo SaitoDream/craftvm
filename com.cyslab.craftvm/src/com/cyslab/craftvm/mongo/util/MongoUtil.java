@@ -1,4 +1,4 @@
-package com.cyslab.craft.mongo.util;
+package com.cyslab.craftvm.mongo.util;
 
 import java.io.File;
 import java.io.FileInputStream;

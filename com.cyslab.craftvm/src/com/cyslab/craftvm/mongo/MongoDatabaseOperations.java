@@ -1,4 +1,4 @@
-package com.cyslab.craft.mongo;
+package com.cyslab.craftvm.mongo;
 
 import java.util.Collection;
 import java.util.List;

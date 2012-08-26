@@ -1,4 +1,4 @@
-package com.cyslab.craft.mongo.data.generator;
+package com.cyslab.craftvm.mongo.data.generator;
 
 import java.util.Random;
 

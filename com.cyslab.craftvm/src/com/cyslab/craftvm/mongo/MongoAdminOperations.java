@@ -1,4 +1,4 @@
-package com.cyslab.craft.mongo;
+package com.cyslab.craftvm.mongo;
 
 import com.mongodb.CommandResult;
 import com.mongodb.WriteResult;

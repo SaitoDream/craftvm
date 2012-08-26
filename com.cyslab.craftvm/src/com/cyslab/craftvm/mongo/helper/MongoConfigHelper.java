@@ -1,8 +1,8 @@
-package com.cyslab.craft.mongo.helper;
+package com.cyslab.craftvm.mongo.helper;
 
 import java.util.Properties;
 
-import com.cyslab.craft.mongo.util.MongoUtil;
+import com.cyslab.craftvm.mongo.util.MongoUtil;
 import com.mongodb.DB;
 import com.mongodb.DBCollection;
 import com.mongodb.Mongo;
